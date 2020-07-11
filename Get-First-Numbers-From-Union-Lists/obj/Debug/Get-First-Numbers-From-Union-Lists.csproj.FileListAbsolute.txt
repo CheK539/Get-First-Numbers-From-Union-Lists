@@ -1,0 +1,9 @@
+E:\Project\RiderProjects\Get-First-Numbers-From-Union-Lists\Get-First-Numbers-From-Union-Lists\bin\Debug\Get_First_Numbers_From_Union_Lists.exe.config
+E:\Project\RiderProjects\Get-First-Numbers-From-Union-Lists\Get-First-Numbers-From-Union-Lists\bin\Debug\Get_First_Numbers_From_Union_Lists.exe
+E:\Project\RiderProjects\Get-First-Numbers-From-Union-Lists\Get-First-Numbers-From-Union-Lists\bin\Debug\Get_First_Numbers_From_Union_Lists.pdb
+E:\Project\RiderProjects\Get-First-Numbers-From-Union-Lists\Get-First-Numbers-From-Union-Lists\obj\Debug\Get-First-Numbers-From-Union-Lists.csprojAssemblyReference.cache
+E:\Project\RiderProjects\Get-First-Numbers-From-Union-Lists\Get-First-Numbers-From-Union-Lists\obj\Debug\Get_First_Numbers_From_Union_Lists.Properties.Resources.resources
+E:\Project\RiderProjects\Get-First-Numbers-From-Union-Lists\Get-First-Numbers-From-Union-Lists\obj\Debug\Get-First-Numbers-From-Union-Lists.csproj.GenerateResource.cache
+E:\Project\RiderProjects\Get-First-Numbers-From-Union-Lists\Get-First-Numbers-From-Union-Lists\obj\Debug\Get-First-Numbers-From-Union-Lists.csproj.CoreCompileInputs.cache
+E:\Project\RiderProjects\Get-First-Numbers-From-Union-Lists\Get-First-Numbers-From-Union-Lists\obj\Debug\Get_First_Numbers_From_Union_Lists.exe
+E:\Project\RiderProjects\Get-First-Numbers-From-Union-Lists\Get-First-Numbers-From-Union-Lists\obj\Debug\Get_First_Numbers_From_Union_Lists.pdb
